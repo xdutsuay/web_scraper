@@ -7,7 +7,7 @@ Project Structure
 C Modules: Handles the core functionality, including fetching content from URLs and managing basic filtering.
 Python Module: Utilizes Python’s libraries for advanced text processing and filtering based on keywords, expanding the functionality of the core C components.
 
-Directory Structure
+Directory Structure #
 
 plaintext
 Copy code
