@@ -6,7 +6,9 @@ Project Structure
 
 C Modules: Handles the core functionality, including fetching content from URLs and managing basic filtering.
 Python Module: Utilizes Python’s libraries for advanced text processing and filtering based on keywords, expanding the functionality of the core C components.
+
 Directory Structure
+
 plaintext
 Copy code
 web_scraper/
@@ -24,18 +26,19 @@ web_scraper/
 Usage
 
 Compile the C code:
-bash
-Copy code
+
 gcc src/main.c src/scraper.c src/utils.c -o webscraper -lcurl -lcjson
+
 Install Python dependencies:
-bash
-Copy code
+
 pip install -r python/requirements.txt
+
 Run the program:
-bash
-Copy code
+
 ./webscraper
+
 The program reads from input/urls.json to get the list of URLs and keywords for filtering.
+
 Libraries Used
 
 C Libraries
