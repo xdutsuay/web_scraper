@@ -1,0 +1,175 @@
+ls
+help
+du -hcd
+df
+df
+df -h
+pip
+help
+` `
+see all posibilities
+ls
+pwd
+ll
+ifconfig
+-clear
+clear
+pwd
+netstat
+ifconfig
+``
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+ls
+cd screenlocal
+pip install requirment.txt
+python -m venv screenl
+python3 -m venv screenl
+pip install requirment.txt
+pip3 install requirment.txt
+screenl/bin/activate
+sh screenl/bin/activate
+pip3 install requirment.txt
+python3 -m pip install --upgrade pip
+pip3 install requirment.txt
+cd..
+cd ..
+pip3 install requirment.txt
+pwd
+cd screenlocal
+pip3 install requirment.txt
+pip install -r requirment.txt
+pip3 install -r requirment.txt
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+ /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49490 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+cd screenlocal
+screenl/bin/activate
+sh screenls/bin/activate
+sh screenl/bin/activate
+sh screenl/bin/activate
+ /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49553 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+ cd /Users/nehatiwari/localcode ; /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49570 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+ cd /Users/nehatiwari/localcode ; /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49585 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+ cd /Users/nehatiwari/localcode ; /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49598 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+ cd /Users/nehatiwari/localcode ; /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49627 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+ cd /Users/nehatiwari/localcode ; /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49822 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+ cd /Users/nehatiwari/localcode ; /usr/bin/env /usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.debugpy-2024.10.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 49598 -- /Users/nehatiwari/localcode/screenlocal/app.py 
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+screenl/bin/activate
+sh screenl/bin/activate
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app_v1.py
+/usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+pip install -r requirment.txt
+/usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app_webrtc.py
+/Users/nehatiwari/localcode/screenlocal/screenl/bin/python /Users/nehatiwari/localcode/screenlocal/app_webrtc.py
+pwd
+git
+ls
+cd src
+ls
+cd RedisClient
+ls
+cd ../DataStructures
+ls
+cd ..
+cd ..
+pwd
+ls
+cd src
+ls
+cd ..
+ls
+mv src src-js
+ls
+mkdir src-py
+git login
+git --help
+git init
+ls
+git add .
+git push
+git push xdutusuay
+git push --set-upstream xdutsuay main
+git status
+git push --set-upstream xdutsuay main
+git push --set-upstream xdutsuay@xdutsuay main
+git push --set-upstream main
+git --help
+git fetch
+/usr/bin/python3 /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/nehatiwari/.vscode/extensions/ms-python.python-2024.16.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+``
+\
+
+gcc
+go 
+gcc
+vnc
+ls
+help
+cls
+cd localcode
+ls
+cd C++
+mkdir C++
+ls
+cd C++
+ls
+gedit first.c
+get gedit
+gvim first.c
+vim
+vim first.c
+gcc first.c
+vim first.c
+gcc first.c
+ls
+./a.out
+./a.out
+python
+python3
+alias 'python3'=python
+python
+alias python='python3'
+python
+vim pythonfromc.c
+gcc pythonfromc.c -o myprogram -I/usr/include/python3.x -lpython3.x
+python3 -c "import sys; print(sys.prefix)"\
+python3 -c "import sysconfig; print(sysconfig.get_path('include'))"\
+
+gcc pythonfromc.c -o myprogram -I/Library/Python/3.9/include -L/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib -lpython3.9\
+
+find / -name "Python.h" 2>/dev/null\
+
+gcc pythonfromc.c -o myprogram -I/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Headers -L/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib -lpython3.9\
+
+ls
+./myprogram
+DYLD_LIBRARY_PATH=/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib ./myprogram\
+
+install_name_tool -add_rpath /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib myprogram\
+
+./myprogram
+gcc pythonfromc.c -o myprogram -I/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Headers -F/Library/Developer/CommandLineTools/Library/Frameworks -framework Python3\
+
+./myprogram
